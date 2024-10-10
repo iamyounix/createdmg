@@ -1,3 +1,0 @@
-([('CreateDMG',
-   '/Users/mohdismailmatasin/Desktop/CreateDMG/dist/CreateDMG',
-   'EXECUTABLE')],)
